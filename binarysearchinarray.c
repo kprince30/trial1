@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/* this is code binary search in array */
 int main()
 {
 int i, arr[10]={2,4,5,6,7,8,9,11,1,12};
